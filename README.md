@@ -1,4 +1,7 @@
-# test coverage for  [gulp-sprite-generator (v0.2.3)](https://github.com/gobwas/gulp-sprite-generator)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-sprite-generator.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-sprite-generator) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-sprite-generator.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-sprite-generator)
+# npmtest-gulp-sprite-generator
+
+#### test coverage for  [gulp-sprite-generator (v0.2.3)](https://github.com/gobwas/gulp-sprite-generator)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-sprite-generator.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-sprite-generator) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-sprite-generator.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-sprite-generator)
+
 #### Plugin that generate sprites from your stylesheets (using spritesmith) and then updates the references.
 
 [![NPM](https://nodei.co/npm/gulp-sprite-generator.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-sprite-generator)
@@ -9,9 +12,15 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-gulp-sprite-generator/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-gulp-sprite-generator/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gulp-sprite-generator/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gulp-sprite-generator/tree/gh-pages/build)|
 
+- [https://npmtest.github.io/node-npmtest-gulp-sprite-generator/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-gulp-sprite-generator/build/coverage.html/index.html)
+
 [![istanbul-coverage](https://npmtest.github.io/node-npmtest-gulp-sprite-generator/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-gulp-sprite-generator/build/coverage.html/index.html)
 
+- [https://npmtest.github.io/node-npmtest-gulp-sprite-generator/build/test-report.html](https://npmtest.github.io/node-npmtest-gulp-sprite-generator/build/test-report.html)
+
 [![test-report](https://npmtest.github.io/node-npmtest-gulp-sprite-generator/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-gulp-sprite-generator/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-gulp-sprite-generator/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-gulp-sprite-generator/build/apidoc.html)
 
 [![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-sprite-generator/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-sprite-generator/build/apidoc.html)
 
