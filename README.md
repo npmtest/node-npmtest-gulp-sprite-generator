@@ -1,6 +1,6 @@
 # npmtest-gulp-sprite-generator
 
-#### test coverage for  [gulp-sprite-generator (v0.2.3)](https://github.com/gobwas/gulp-sprite-generator)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-sprite-generator.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-sprite-generator) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-sprite-generator.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-sprite-generator)
+#### basic test coverage for  [gulp-sprite-generator (v0.2.3)](https://github.com/gobwas/gulp-sprite-generator)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-sprite-generator.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-sprite-generator) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-sprite-generator.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-sprite-generator)
 
 #### Plugin that generate sprites from your stylesheets (using spritesmith) and then updates the references.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-gulp-sprite-generator/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-gulp-sprite-generator/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-gulp-sprite-generator/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-gulp-sprite-generator/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gulp-sprite-generator/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gulp-sprite-generator/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-gulp-sprite-generator/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-gulp-sprite-generator/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gulp-sprite-generator/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gulp-sprite-generator/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-gulp-sprite-generator/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-gulp-sprite-generator/build/coverage.html/index.html)
 
@@ -92,7 +92,8 @@
         "test": "mocha ./test"
     },
     "test": "mocha test",
-    "version": "0.2.3"
+    "version": "0.2.3",
+    "bin": {}
 }
 ```
 
